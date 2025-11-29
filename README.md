@@ -48,7 +48,7 @@ This is a monorepo containing two packages:
 - 🚀 **Fast dev experience** - Instant hot reload
 - 🎨 **Built-in themes** - Choose from multiple pre-built themes
 
-<video controls src="https://video.twimg.com/amplify_video/1994677787115098114/vid/avc1/1920x1200/ogo8kIaM3FYmsQIs.mp4 https://github.com/user-attachments/assets/3cc83544-2690-49b5-8be6-51e671db52ef"></video>
+<video controls src="https://video.twimg.com/amplify_video/1994677787115098114/vid/avc1/1920x1200/ogo8kIaM3FYmsQIs.mp4?tag=21"></video>
 
 ## 🚀 Quick Start
 
