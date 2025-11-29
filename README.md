@@ -48,6 +48,8 @@ This is a monorepo containing two packages:
 - 🚀 **Fast dev experience** - Instant hot reload
 - 🎨 **Built-in themes** - Choose from multiple pre-built themes
 
+![https://video.twimg.com/amplify_video/1994677787115098114/vid/avc1/1920x1200/ogo8kIaM3FYmsQIs.mp4?tag=21}
+
 ## 🚀 Quick Start
 
 ### Installation
@@ -65,6 +67,10 @@ sherp dev
 ```
 
 That's it! Your presentation is now running at `http://localhost:4321`
+
+## Sherp in the wild
+
+- See an example of sherp here. https://github.com/skeptrunedev/show-hn-sherp
 
 ## 📁 Project Structure
 
